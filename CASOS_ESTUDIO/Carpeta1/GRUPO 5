@@ -1,0 +1,44 @@
+GRUPO 5: MY. ALVARADO REYES RAMIRO
+         MY. GIRALDO RESTREPO RAFAEL
+         MY. MARTINEZ MARTINEZ RAFAEL
+         MY. PATIÑO JAIME.
+
+1. Medidas a Implementar
+Para asegurar que no se presente un eventual ataque mediante compromiso de la cadena de suministro en el contexto de la distribución de software, se pueden implementar las siguientes medidas:
+
+a. Verificación de Integridad del Software
+Objetivo: Asegurar que el software descargado no ha sido modificado o comprometido.
+Mitigación de Riesgo: Reduce el riesgo de que se instale software malicioso o alterado. Esto se puede lograr mediante la implementación de firmas digitales y hashes (como SHA-256) para verificar la integridad de los archivos.
+
+b. Autenticación y Control de Acceso
+Objetivo: Limitar el acceso al repositorio solo a usuarios y sistemas autorizados.
+Mitigación de Riesgo: Previene accesos no autorizados que podrían comprometer el software. Implementar autenticación multifactor (MFA) y controles de acceso basados en roles (RBAC) es esencial.
+
+c. Auditorías y Monitoreo Continuo
+Objetivo: Detectar y responder a actividades sospechosas en tiempo real.
+Mitigación de Riesgo: Minimiza el riesgo de ataques al permitir la identificación temprana de anomalías. Las auditorías regulares y el monitoreo de logs son cruciales.
+
+d. Evaluación de Proveedores y Terceros
+Objetivo: Asegurar que los proveedores y terceros cumplen con estándares de seguridad.
+Mitigación de Riesgo: Reduce el riesgo de que un proveedor comprometido afecte la seguridad de la organización. Realizar evaluaciones de seguridad y auditorías de terceros es fundamental.
+
+e. Educación y Concienciación
+Objetivo: Capacitar a los empleados sobre los riesgos de la cadena de suministro.
+Mitigación de Riesgo: Aumenta la resiliencia organizacional al reducir el riesgo de errores humanos que pueden llevar a compromisos de seguridad.
+
+2. Objetivo de las Medidas y Factores de Riesgo Mitigados
+Cada una de las medidas mencionadas tiene como objetivo principal proteger la integridad y la disponibilidad del software que se distribuye. Los factores de riesgo que se mitigan incluyen:
+Compromiso de la Integridad: Asegurar que el software no sea alterado durante su distribución.
+Acceso No Autorizado: Evitar que actores maliciosos accedan al repositorio y modifiquen el software.
+Falta de Visibilidad: Proporcionar una visión clara de las actividades en el repositorio para detectar comportamientos anómalos.
+Dependencia de Proveedores: Minimizar el riesgo asociado con la utilización de software o servicios de terceros que no cumplen con los estándares de seguridad.
+
+
+3. Definición de Cadena de Suministro y su Relevancia en Ciberseguridad
+¿Qué es una Cadena de Suministro?
+La cadena de suministro se refiere al conjunto de procesos y actividades involucradas en la producción y distribución de un producto, desde la obtención de materias primas hasta la entrega del producto final al consumidor. En el contexto del software, esto incluye el desarrollo, la prueba, la distribución y la implementación del software.
+Relevancia en Ciberseguridad
+La cadena de suministro es crítica en ciberseguridad porque:
+Punto de Entrada para Ataques: Los atacantes pueden comprometer a un proveedor o un componente de software para infiltrarse en la red de una organización.
+Interconexión de Sistemas: La dependencia de múltiples proveedores y sistemas aumenta la complejidad y el riesgo de seguridad.
+Impacto en la Confianza: Un compromiso en la cadena de suministro puede afectar la confianza de los clientes y socios, así como la reputación de la organización.
