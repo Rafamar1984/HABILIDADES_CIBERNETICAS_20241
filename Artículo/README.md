@@ -3,7 +3,7 @@
 Apreciados oficiales, tal y como se socializó en clase, este artículo corresponde al exámen final del curso correspondiente al 40 
   % del curso. 
       
-Artículo de reflexión el cual debe ser entregado en la penúltima clase de nuestro curso.Al respecto tener en cuenta:
+,Artículo de reflexión el cual debe ser entregado en la penúltima clase de nuestro curso.Al respecto tener en cuenta:
 
 ## Propósito: 
 Desarrollo de competencias de investigación, uso de herramientas como los repositorios para generar inteligancia y colaboración; elemenos estos claves en todo CSIRT o CERT.
